@@ -6,7 +6,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 
 
-Intordução a Experiencia Microsoft 50 anos
+Introdução a Experiencia Microsoft 50 anos
 
 
 
@@ -14,7 +14,7 @@ Introdução ao Bootcamp Microsoft 50 anos: computação em nuvem com Azure
 
 
 
-Como a computação em nunvem funciona
+Como a computação em nuvem funciona
 
 
 
